@@ -31,7 +31,7 @@ with st.sidebar:
     st.title("Data Analytics")
 
     # Logo Image
-    st.image("./dashboard/gcl.png")
+    st.image("gcl.png")
 
     # Date Range
     start_date, end_date = st.date_input(
